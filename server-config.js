@@ -1,0 +1,1 @@
+window.KNOWLEDGE_CHAIN_SERVER = '';
